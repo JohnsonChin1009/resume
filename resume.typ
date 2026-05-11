@@ -56,7 +56,7 @@
       "Software Engineering",
       (
         "Planned and deployed AWS infrastructure (Step Functions, ECS, Lambda, EventBridge) for the internal scoring pipeline, processing 30,000+ records daily",
-        "Implemented PageRank-based ranking logic to rank 30,000+ users within core product systems",
+        "Implemented PageRank-based ranking logic to rank 30,000+ crypto wallets within core product systems",
       ),
     ),
     (
