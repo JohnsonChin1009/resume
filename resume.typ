@@ -38,11 +38,10 @@
   cols: 2,
   items: (
     (
-      "Quality Assurance (QA)",
+      "Software Engineering",
       (
-        "Built end-to-end automated test infrastructure for Node.js and Python SDKs from scratch — 500+ unit and integration tests with 85%+ coverage",
-        "Performed manual QA validation on 20+ on-chain and platform features prior to release",
-        "Identified and refactored 10+ gaps in SDK functionality, reducing number of edge cases",
+        "Planned and deployed AWS infrastructure (Step Functions, ECS, Lambda, EventBridge) for the internal scoring pipeline, processing 30,000+ records daily",
+        "Implemented PageRank-based ranking logic to rank 30,000+ crypto wallets within core product systems",
       ),
     ),
     (
@@ -53,10 +52,11 @@
       ),
     ),
     (
-      "Software Engineering",
+      "Quality Assurance (QA)",
       (
-        "Planned and deployed AWS infrastructure (Step Functions, ECS, Lambda, EventBridge) for the internal scoring pipeline, processing 30,000+ records daily",
-        "Implemented PageRank-based ranking logic to rank 30,000+ crypto wallets within core product systems",
+        "Built end-to-end automated test infrastructure for Node.js and Python SDKs from scratch — 500+ unit and integration tests with 85%+ coverage",
+        "Performed manual QA validation on 20+ on-chain and platform features prior to release",
+        "Identified and refactored 10+ gaps in SDK functionality, reducing number of edge cases",
       ),
     ),
     (
