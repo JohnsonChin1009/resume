@@ -20,10 +20,6 @@
   location: "Kuala Lumpur",
   role: "Bachelor of Science (Honours) in Software Engineering",
   date: "Nov 2023 - Oct 2025",
-  items: (
-    "Co-Director, Google Workspace Hackathon @ GDSC APU",
-    "Guest Speaker, Notion @ Asia Pacific University",
-  ),
 )
 
 // ── WORK EXPERIENCE ─────────────────────────────────────────────────────────
@@ -33,14 +29,15 @@
 #entry(
   org: "Virtuals Protocol",
   location: "Kuala Lumpur",
-  role: "Junior Software Engineer",
+  role: "Full-Stack Developer (Mid-Level)",
   date: "Oct 2025 - Present",
   cols: 2,
   items: (
     (
       "Software Engineering",
       (
-        "Planned and deployed AWS infrastructure (Step Functions, ECS, Lambda, EventBridge) for the internal scoring pipeline, processing 30,000+ records daily",
+        "Led development and architect infrastructure for edge computing with companion app and server stack",
+        "Planned and deployed AWS infrastructure (Step Functions, ECS, Lambda, EventBridge) for an internal scoring pipeline, processing 30,000+ records daily",
         "Implemented PageRank-based ranking logic to rank 30,000+ crypto wallets within core product systems",
       ),
     ),
@@ -56,13 +53,14 @@
       (
         "Built end-to-end automated test infrastructure for Node.js and Python SDKs from scratch — 500+ unit and integration tests with 85%+ coverage",
         "Performed manual QA validation on 20+ on-chain and platform features prior to release",
-        "Identified and refactored 10+ gaps in SDK functionality, reducing number of edge cases",
+        "Identified and refactored 10+ gaps in SDK functionality, reducing number of edge cases and points of failure",
       ),
     ),
     (
       "Robotics",
       (
-        "Built a fully sovereign, zero-cloud AI stack for the Unitree G1 humanoid robot — integrating STT, TTS, local LLM, and body movement control via Unitree SDK",
+        "Built a fully sovereign, zero-cloud AI stack for Unitree G1 humanoid robot — integrating STT, TTS, local LLM, and body movement control via UnitreeSDK",
+        "Trained custom wake word using openWakeWord library achieving 80% accuracy for internal R&D product that runs on edge devices using onnxruntime",
       )
     ),
   ),
@@ -89,7 +87,7 @@
     date: "Jun 2024 – Present", 
     items: (
       "Spoke on MongoDB Security Basics at MUG KL Meetup #19 to 40 attendees", 
-      "Volunteered at MongoDB.local Kuala Lumpur 2024",
+      "Co-Hosted MongoDB Meetups with MongoDB Champions",
     )
   ),
   (
