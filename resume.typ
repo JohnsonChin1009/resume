@@ -29,8 +29,8 @@
 #entry(
   org: "Virtuals Protocol",
   location: "Kuala Lumpur",
-  role: "Full-Stack Developer (Mid-Level)",
-  date: "Oct 2025 - Present",
+  role: "Full-Stack Engineer (Mid-Level)",
+  date: "Oct 2025 - Sept 2026",
   cols: 2,
   items: (
     (
@@ -60,7 +60,8 @@
       "Robotics",
       (
         "Built a fully sovereign, zero-cloud AI stack for Unitree G1 humanoid robot — integrating STT, TTS, local LLM, and body movement control via UnitreeSDK",
-        "Trained custom wake word using openWakeWord library achieving 80% accuracy for internal R&D product that runs on edge devices using onnxruntime",
+        "Trained custom wake word using openWakeWord library achieving 90% accuracy for internal R&D product that runs on edge devices using onnxruntime",
+        "Solo built custom firmware + MentraOS fork that runs on dual-chip (MTK + BES) edge devices with optimized battery and cpu usage"
       )
     ),
   ),
@@ -76,36 +77,35 @@
     role: "Organizer",
     date: "Aug 2025 – Present",
     items: (
-      "Organized industry level conferences such as DevFest KL, Cloud Day KL etc.",
+      "Organized industry level conferences such as DevFest KL, Cloud Next Extended etc.",
       "Providing support and assistance to GCP users via content curation and presentation",
-      "Managed social media presence and led outreach efforts to grow community engagement",
     ),
   ),
   (
     org: "MongoDB User Group KL", 
-    role: "Volunteer", 
+    role: "Core Contributor", 
     date: "Jun 2024 – Present", 
     items: (
       "Spoke on MongoDB Security Basics at MUG KL Meetup #19 to 40 attendees", 
-      "Co-Hosted MongoDB Meetups with MongoDB Champions",
+      "Co-hosted MongoDB Meetups with MongoDB Champions",
     )
   ),
   (
-    org: "OpenClaw KL",
-    role: "Organizer & Speaker",
+    org: "Claw Collective KL",
+    role: "Core Contributor",
     date: "Mar 2026 - Present",
     items: (
       "Spoke on CLI, Skills, MCP to 200 attendees at OpenClaw KL Meetup #2",
-      "Demonstrated how to build skills for OpenClaw agent and interesting use cases",
+      "Lead Mentor for OpenClaw KL Builder Campus Cohort 01",
     )
   ),
   (
-    org: "Independent",
-    role: "Invited Hackathon Judge",
-    date: "Sept 2025 - Present",
+    org: "Notion Malaysia",
+    role: "Core Contributor",
+    date: "Sept 2026 - Present",
     items: (
-      "CodeNection 2025 @ MMU",
-      "Isek.AI ACG Buildathon 2025 @ Taylor's University",
+      "Deliver curated content to community",
+      "Handle event logistics",
     )
   )
 )
@@ -132,8 +132,8 @@
     #v(-3pt)
     #line(length: 100%, stroke: 0.5pt)
     #v(2pt)
-    - *3rd Place*, Best Build on Scroll @ EthKL 2024
-    - *2nd Place*, Protocol Labs @ ETHBangkok 2024
-    - *3rd Place*, Best Build on Scroll & The Graph @ ETHUprising 2025
+    - *3rd Place*, Best Build on Scroll \@ EthKL 2024
+    - *2nd Place*, Protocol Labs \@ ETHBangkok 2024
+    - *3rd Place*, Best Build on Scroll & The Graph \@ ETHUprising 2025
   ],
 )
